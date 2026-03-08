@@ -103,7 +103,7 @@ html[data-bs-theme="light"] .profile-img{
 
 /* If image sideways fix manually use this class */
 .rotate-fix{
-  transform: rotate(60deg);
+  transform: rotate(210deg);
 }
 
 /* ===============================
@@ -208,3 +208,4 @@ html[data-bs-theme="light"] .social a{
   }
 
 }
+
