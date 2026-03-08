@@ -103,7 +103,7 @@ html[data-bs-theme="light"] .profile-img{
 
 /* If image sideways fix manually use this class */
 .rotate-fix{
-  transform: rotate(210deg);
+  transform: rotate(60deg);
 }
 
 /* ===============================
@@ -206,4 +206,5 @@ html[data-bs-theme="light"] .social a{
   .gallery-img{
     height: 200px;
   }
+
 }
